@@ -40,7 +40,7 @@ Welcome to my **Neural Network** learning repository! This project represents my
 
 ## 🧪 Sample Results
 Some results of my ANN models on dummy and real datasets:
-- Accuracy > 95% on **MNIST** handwritten digit classification
+- Accuracy > 80% on **MNIST** handwritten digit classification
 - Clear understanding of how changing activation/loss functions affects performance
 - Learned how model complexity influences training dynamics
 
